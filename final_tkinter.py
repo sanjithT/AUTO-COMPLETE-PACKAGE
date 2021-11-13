@@ -203,6 +203,9 @@ def file_operation(word):
     f.close()
 
 
+#? list updation
+
+
 def insert_fn(event):
     print("pressed")
     global tree
