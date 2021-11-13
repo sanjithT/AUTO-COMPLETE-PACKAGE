@@ -207,7 +207,6 @@ def file_operation(word):
 
 
 def insert_fn(event):
-    print("pressed")
     global tree
     w = word.get()
     tree.insert(w, tree.n)
